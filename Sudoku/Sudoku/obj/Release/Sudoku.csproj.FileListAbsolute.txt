@@ -1,0 +1,12 @@
+D:\Dai Hoc\Thuc Tap Co So\Sudoku\Sudoku\bin\Release\Sudoku.exe.config
+D:\Dai Hoc\Thuc Tap Co So\Sudoku\Sudoku\bin\Release\Sudoku.exe
+D:\Dai Hoc\Thuc Tap Co So\Sudoku\Sudoku\bin\Release\Sudoku.pdb
+D:\Dai Hoc\Thuc Tap Co So\Sudoku\Sudoku\obj\Release\Sudoku.csproj.AssemblyReference.cache
+D:\Dai Hoc\Thuc Tap Co So\Sudoku\Sudoku\obj\Release\Sudoku.csproj.SuggestedBindingRedirects.cache
+D:\Dai Hoc\Thuc Tap Co So\Sudoku\Sudoku\obj\Release\Sudoku.Form1.resources
+D:\Dai Hoc\Thuc Tap Co So\Sudoku\Sudoku\obj\Release\Sudoku.Form2.resources
+D:\Dai Hoc\Thuc Tap Co So\Sudoku\Sudoku\obj\Release\Sudoku.Properties.Resources.resources
+D:\Dai Hoc\Thuc Tap Co So\Sudoku\Sudoku\obj\Release\Sudoku.csproj.GenerateResource.cache
+D:\Dai Hoc\Thuc Tap Co So\Sudoku\Sudoku\obj\Release\Sudoku.csproj.CoreCompileInputs.cache
+D:\Dai Hoc\Thuc Tap Co So\Sudoku\Sudoku\obj\Release\Sudoku.exe
+D:\Dai Hoc\Thuc Tap Co So\Sudoku\Sudoku\obj\Release\Sudoku.pdb
